@@ -3,7 +3,7 @@
 
  <br>
 
- <img align="center" = ![](SecretGrimIriomotecat.gif) >
+ <align="center"  ![](SecretGrimIriomotecat.gif) >
 
 <br>
 
