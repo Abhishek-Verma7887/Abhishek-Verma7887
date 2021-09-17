@@ -3,7 +3,7 @@
 
  <br>
 
- <h1 align="center">           ![](SecretGrimIriomotecat.gif) </h1>
+ ![](SecretGrimIriomotecat.gif) 
 
 <br>
 
